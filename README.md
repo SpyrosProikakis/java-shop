@@ -1,0 +1,1 @@
+This application was developed in the context of the course "PROGRAMMING WITH JAVA". The application deals with the operation of an online store(orders,stock,sales) with different categories of products.
